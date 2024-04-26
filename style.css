@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Inter Regular;
+    src: url(fonts/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: Jost;
+    src: url(fonts/Jost-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Poppins;
+    src: url(fonts/Poppins-Regular.ttf);
+}
+
+
+.Jost-reg{
+font-family: Jost;
+}
+.poppins-reg{
+font-family: Poppins;
+}
+.smallsize{
+    font-size: 90% !important;
+}
+.orangecolor{
+    color: #f6623e !important;
+}
+.bg-orange{
+    background-color: #f6623e !important;
+}
+.hero-bg{
+    
+ background-image: url(Images/hero\ section.png);
+ position: absolute;
+ 
+ width: 4000px !important;
+ background-size: contain;
+ background-repeat: no-repeat;
+ 
+ width: 10px;
+}
