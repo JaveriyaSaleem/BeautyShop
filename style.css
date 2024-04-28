@@ -27,14 +27,20 @@ font-family: Poppins;
 .bg-orange{
     background-color: #f6623e !important;
 }
+.border-orange{
+border: 2px solid !important;
+border-color: #f6623e !important;
+}
+/* hero section  */
 .hero-bg{
     
  background-image: url(Images/hero\ section.png);
- position: absolute;
+
+ z-index: -1;
  
- width: 4000px !important;
+ 
+ width: 5000px !important;
  background-size: contain;
  background-repeat: no-repeat;
- 
  width: 10px;
 }
