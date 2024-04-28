@@ -24,6 +24,9 @@ font-family: Poppins;
 .orangecolor{
     color: #f6623e !important;
 }
+.pricegray{
+    color: #9D9D9D;
+}
 .bg-orange{
     background-color: #f6623e !important;
 }
@@ -33,6 +36,9 @@ border-color: #f6623e !important;
 }
 .pinkishbg{
     background-color: #fff8f6;
+}
+.twelvepx{
+    font-size: 12px;
 }
 /* hero section  */
 .hero-bg{
