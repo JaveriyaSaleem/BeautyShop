@@ -31,6 +31,9 @@ font-family: Poppins;
 border: 2px solid !important;
 border-color: #f6623e !important;
 }
+.pinkishbg{
+    background-color: #fff8f6;
+}
 /* hero section  */
 .hero-bg{
     
