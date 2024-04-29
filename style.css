@@ -38,7 +38,7 @@ border-color: #f6623e !important;
     background-color: #fff8f6;
 }
 .twelvepx{
-    font-size: 12px;
+    font-size: 12px !important;
 }
 /* hero section  */
 .hero-bg{
