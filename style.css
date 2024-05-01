@@ -13,7 +13,7 @@
 
 
 .Jost-reg{
-font-family: Jost;
+font-family: Jost !important;
 }
 .poppins-reg{
 font-family: Poppins;
@@ -28,10 +28,16 @@ font-family: Poppins;
     font-family: 'Times New Roman', Times, serif;
 }
 .pricegray{
-    color: #9D9D9D;
+    color: #9D9D9D !important;
+}
+.pricegrays{
+    color: #696666 !important;
 }
 .bg-orange{
     background-color: #f6623e !important;
+}
+.footerbg{
+    background:#fff8f6;
 }
 .border-orange{
 border: 2px solid !important;
@@ -42,6 +48,16 @@ border-color: #f6623e !important;
 }
 .twelvepx{
     font-size: 12px !important;
+}
+.exclusiveinput{
+background-color: transparent !important;
+border: hidden !important;
+border-bottom-style: solid !important;
+border-bottom-width: 2px !important;
+border-bottom-color: black !important;
+border-bottom-left-radius:0px !important;
+border-bottom-right-radius:0px !important;
+
 }
 /* hero section  */
 .hero-bg{
