@@ -60,15 +60,20 @@ border-bottom-right-radius:0px !important;
 
 }
 /* hero section  */
+@media screen and (max-width:772px) and (min-width: 400px) {
 .hero-bg{
-    
- background-image: url(Images/hero\ section.png);
-
- z-index: -1;
- 
- 
- width: 5000px !important;
- background-size: contain;
- background-repeat: no-repeat;
- width: 10px;
+background-image: url(Images/edited\ hero.png);
+background-size: cover;
+background-repeat: no-repeat;}
 }
+@media screen and (max-width:400px) and (min-width: 200px) {
+    .hero-bg{
+    background-image: url(Images/edited\ for\ media\ 2.png);
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    
+}
+
